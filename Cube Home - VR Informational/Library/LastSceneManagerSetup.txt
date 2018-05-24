@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/VR Merry Ferris Wheel Project - Course 2.unity
+  isLoaded: 1
+  isActive: 1
